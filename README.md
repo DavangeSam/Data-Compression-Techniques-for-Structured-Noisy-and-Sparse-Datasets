@@ -5,9 +5,11 @@ This project explores and compares different dimensionality reduction methods on
 
 Table 1: Dense dataset representing a structured image.
 
-![image alt](https://github.com/DavangeSam/Data-Compression-Techniques-for-Structured-Noisy-and-Sparse-Datasets/blob/main/Table%201.png?raw=true)
+![Table 1](https://github.com/DavangeSam/Data-Compression-Techniques-for-Structured-Noisy-and-Sparse-Datasets/blob/main/Table%201.png?raw=true)
 
 Table 2: Dense dataset composed of randomly generated noise.
+
+![Table 2](https://github.com/DavangeSam/Data-Compression-Techniques-for-Structured-Noisy-and-Sparse-Datasets/blob/main/Table%202.png?raw=true)
 
 Table 3: Sparse dataset with limited non-zero entries. 
 
